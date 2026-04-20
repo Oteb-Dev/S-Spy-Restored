@@ -3,8 +3,8 @@ local Configuration = {
 	UseWorkspace = false, 
 	NoActors = false,
 	FolderName = "Sigma Spy",
-	RepoUrl = [[https://raw.githubusercontent.com/Oteb-Dev/Sigma-Spy-Restored/refs/heads/main/Sigma-Spy]],
-    ParserUrl = [[https://raw.githubusercontent.com/Oteb-Dev/Sigma-Spy-Restored/refs/heads/main/Roblox-Parser/Main.luau]],
+	RepoUrl = [[https://raw.githubusercontent.com/Oteb-Dev/S-Spy-Restored/refs/heads/main/Sigma-Spy]],
+    ParserUrl = [[https://raw.githubusercontent.com/Oteb-Dev/S-Spy-Restored/refs/heads/main/Roblox-Parser/Main.luau]],
     Directory = "Sigma Spy"
 }
 
